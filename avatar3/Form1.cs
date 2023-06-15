@@ -33,5 +33,10 @@ namespace avatar3
         {
 
         }
+
+        private void B(object sender, EventArgs e)
+        {
+
+        }
     }
 }
